@@ -1,0 +1,1 @@
+$(document).ready(function(){$(window).on("scroll",function(){var c=700;var a=$(window).scrollTop();var b=$("#toPagetop_btn");if(a<c){b.fadeOut("500")}if(c<=a){b.fadeIn("500")}});$("#toPagetop_btn").click(function(){$("body, html").animate({scrollTop:0},"fast");return false})});

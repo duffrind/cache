@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_4052" data-name="長方形 4052" width="50" height="50" transform="translate(2580 15789)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_140" data-name="マスクグループ 140" transform="translate(-2580 -15789)" clip-path="url(#clip-path)">
+    <g id="レイヤー_2" data-name="レイヤー 2" transform="translate(2580.923 15789)">
+      <g id="アイコン" transform="translate(0 0)">
+        <path id="パス_23" data-name="パス 23" d="M48.36,35.258V1.43H0V35.258H17.927v7.121h-7.9v4.4H38.347V42.433h-7.9V35.312ZM24.17,5.74a7.14,7.14,0,0,1,6.979,6.2,7.381,7.381,0,0,1-4.792,8.149,7.158,7.158,0,0,1-4.352,0,7.38,7.38,0,0,1-4.792-8.14A7.139,7.139,0,0,1,24.17,5.74Zm-9.535,26.7a15.857,15.857,0,0,1,5.632-11.571,7.965,7.965,0,0,0,3.907,1.015,7.818,7.818,0,0,0,3.907-1.015,16.121,16.121,0,0,1,5.661,11.571Z" transform="translate(0 0.782)" fill="#5ca3d0"/>
+        <rect id="長方形_36" data-name="長方形 36" width="49.077" height="49.077" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
